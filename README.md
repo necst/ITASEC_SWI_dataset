@@ -9,7 +9,7 @@ Inside the folder you can find the csv containing all the original measurements 
 - 'station_name' - 2021-12-31 -> used to train the model
 - 'station_name' - 2024-08-19 -> used to create the attack dataset
 
-### Types of attack
+## Types of attack
 We have implemented three types of attack:
 
 1. Random
