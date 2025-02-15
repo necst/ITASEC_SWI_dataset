@@ -5,7 +5,7 @@ This repo contains the code and dataset to launch the synthetic attacks presente
 We have used Visual Studio Code with Jupyter exstension and Python v3.12.7. *Requirements* folder contains two txt files that list all the tools used with their version.
 
 ## Dataset
-Inside the folder you can find the csv containing all the original measurements taken from the public repository. As you can see there, for each station there are 2 csv files. the reason behind this distinction is that one file has been used for training the model and the other one has been used to generate the attacked dataset.
+Inside the folder you can find the csv containing all the original measurements taken from the public repository. As you can see there, for each station there are 2 csv files. The reason why there is this distinction is that one file has been used for training the model and the other one has been used to generate the attacked dataset.
 - 'station_name' - 2021-12-31 -> used to train the model
 - 'station_name' - 2024-08-19 -> used to create the attack dataset
 
